@@ -1,0 +1,5 @@
+META-INF\MANIFEST.MF
+application.properties
+META-INF\maven\HibernateDaoLayer\HibernateDaoLayer\pom.properties
+META-INF\maven\HibernateDaoLayer\HibernateDaoLayer\pom.xml
+com\techdazzler\hibernate\configuration\HibernateConfiguration.class
